@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato tipo="entrante">
+        <nombre>Sopa Miso</nombre>
+        <precio>3.99€</precio>
+        <descripcion>Una sopa tradicional japonesa a base de caldo de pescado y pasta de soja fermentada.</descripcion>
+        <calorias>120</calorias>
+        <caracteristicas>
+            <categoria>Carne, Pasta de soja, tiene gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <nombre>Gyoza</nombre>
+        <precio>5.99€</precio>
+        <descripcion>Empanadillas japonesas rellenas de carne picada y verduras, cocidas al vapor y luego doradas en la sartén.</descripcion>
+        <calorias>180</calorias>
+        <caracteristicas>
+            <categoria>Carne, verduras,sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <nombre>Edamame</nombre>
+        <precio>4.50€</precio>
+        <descripcion>Granos de soja inmaduros, cocidos al vapor y salados, servidos como aperitivo.</descripcion>
+        <calorias>100</calorias>
+        <caracteristicas>
+            <categoria>Sin gluten, verdura</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <nombre>Tempura de Langostinos</nombre>
+        <precio>8.99€</precio>
+        <descripcion>Langostinos frescos cubiertos con una masa ligera y fritos hasta que estén crujientes.</descripcion>
+        <calorias>250</calorias>
+        <caracteristicas>
+           <categoria>Marisco, Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="entrante">
+        <nombre>Agua de Mar</nombre>
+        <precio>6.99€</precio>
+        <descripcion>Algas marinas y pepino en un caldo de miso ligero, servido como aperitivo refrescante.</descripcion>
+        <calorias>150</calorias>
+        <caracteristicas>
+            <categoria>Algas, Pepino, sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <!-- Platos Principales -->
+    <plato tipo="principal">
+        <nombre>Sushi Variado</nombre>
+        <precio>18.99€</precio>
+        <descripcion>Una selección de sushi con variedad de pescado crudo y arroz de sushi.</descripcion>
+        <calorias>400</calorias>
+        <caracteristicas>
+            <categoria>Arroz, Pescado, sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Teriyaki de Pollo</nombre>
+        <precio>14.50€</precio>
+        <descripcion>Pechuga de pollo marinada en salsa teriyaki y asada a la parrilla, servida con arroz y verduras.</descripcion>
+        <calorias>350</calorias>
+        <caracteristicas>
+           <categoria>Pollo, Arroz, Verduras, sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Donburi de Salmón</nombre>
+        <precio>16.99€</precio>
+        <descripcion>Filete de salmón a la parrilla sobre arroz, servido con verduras encurtidas y salsa teriyaki.</descripcion>
+        <calorias>380</calorias>
+        <caracteristicas>
+          <categoria>Pescado, Arroz, Verduras, Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Ramen de Cerdo Tonkotsu</nombre>
+        <precio>12.99€</precio>
+        <descripcion>Un caldo rico y cremoso a base de huesos de cerdo, servido con fideos, huevo y cerdo cocido a fuego lento.</descripcion>
+        <calorias>400</calorias>
+        <caracteristicas>
+           <categoria>Huevo, Huesos de cerdo, Pasta, Gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Yakimeshi</nombre>
+        <precio>11.99€</precio>
+        <descripcion>Arroz frito japonés con carne de cerdo, camarones, huevo y verduras.</descripcion>
+        <calorias>420</calorias>
+        <caracteristicas>
+           <categoria>Arroz, Carne, Marisco, Huevo, Verduras, Gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Katsu Curry</nombre>
+        <precio>13.99€</precio>
+        <descripcion>Filete de pollo empanizado, servido con arroz al curry japonés y ensalada de repollo.</descripcion>
+        <calorias>500</calorias>
+        <caracteristicas>
+           <categoria>Pollo, Arroz, Salsa Curry, Picante, Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Udon de Mariscos</nombre>
+        <precio>15.99€</precio>
+        <descripcion>Sopa de udon con una variedad de mariscos frescos y verduras.</descripcion>
+        <calorias>380</calorias>
+        <caracteristicas>
+           <categoria>Marisco, Verdura, Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Sukiyaki</nombre>
+        <precio>19.99€</precio>
+        <descripcion>Plato japonés de carne y verduras cocidas en una olla de hierro dulce con salsa de soja, azúcar y mirin.</descripcion>
+        <calorias>450</calorias>
+        <caracteristicas>
+            <categoria>Carne, Verdura, Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Okonomiyaki</nombre>
+        <precio>12.50€</precio>
+        <descripcion>Tortilla japonesa gruesa y esponjosa hecha con repollo rallado, carne, mariscos y otros ingredientes.</descripcion>
+        <calorias>350</calorias>
+        <caracteristicas>
+           <categoria>Huevo, Carne, Marisco, Salsas, Con gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="principal">
+        <nombre>Sashimi de Atún</nombre>
+        <precio>22.99€</precio>
+        <descripcion>Finas láminas de atún fresco cortadas en rodajas y servidas con salsa de soja y wasabi.</descripcion>
+        <calorias>300</calorias>
+        <caracteristicas>
+           <categoria>Pescado, Salsa, Wasabi(picante)</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <!-- Postres -->
+    <plato tipo="postre">
+        <nombre>Mochi de Matcha</nombre>
+        <precio>4.99€</precio>
+        <descripcion>Postre japonés de mochi relleno de helado de té verde.</descripcion>
+        <calorias>180</calorias>
+        <caracteristicas>
+            <categoria>Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="postre">
+        <nombre>Dorayaki</nombre>
+        <precio>3.50€</precio>
+        <descripcion>Pastelito japonés relleno de anko (pasta de frijoles dulces).</descripcion>
+        <calorias>200</calorias>
+        <caracteristicas>
+          <categoria>Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="postre">
+        <nombre>Mochi de Mango</nombre>
+        <precio>5.50€</precio>
+        <descripcion>Delicioso mochi japonés relleno de puré de mango.</descripcion>
+        <calorias>160</calorias>
+        <caracteristicas>
+           <categoria>Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="postre">
+        <nombre>Castella</nombre>
+        <precio>6.99€</precio>
+        <descripcion>Pastel japonés esponjoso hecho con harina, azúcar, huevos y miel.</descripcion>
+        <calorias>220</calorias>
+        <caracteristicas>
+           <categoria>Con gluten</categoria>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo="postre">
+        <nombre>Té Matcha Latte</nombre>
+        <precio>4.99€</precio>
+        <descripcion>Té verde matcha en polvo mezclado con leche caliente y endulzado al gusto.</descripcion>
+        <calorias>150</calorias>
+        <caracteristicas>
+            <categoria>Sin gluten</categoria>
+        </caracteristicas>
+    </plato>
+</menu>
